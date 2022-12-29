@@ -90,7 +90,7 @@
 
 - jest
 
-![image-20220721234026453](README.assets/image-20220721234026453.png)
+![image-20220721234026453](https://whale-picture.oss-cn-hangzhou.aliyuncs.com/img/image-20220721234026453.png)
 
 #### 具体代码
 
